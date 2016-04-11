@@ -1,0 +1,24 @@
+html {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body, input {
+  font: menu;
+}
+
+textarea, input, div, button { outline: none; }
