@@ -18,7 +18,16 @@ body {
 }
 
 body, input {
-  font: menu;
+  font-family: 'Titillium Web', sans-serif;
 }
 
 textarea, input, div, button { outline: none; }
+
+.title {
+  font-size: 4em;
+  text-align: center;
+}
+
+.time-interval-form {
+  text-align: center;
+}
