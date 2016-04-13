@@ -31,3 +31,7 @@ textarea, input, div, button { outline: none; }
 .time-interval-form {
   text-align: center;
 }
+
+.active-display {
+  text-align: center;
+}
