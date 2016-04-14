@@ -39,3 +39,17 @@ textarea, input, div, button { outline: none; }
 .statement-form {
   text-align: center;
 }
+
+.form-style {
+  width: 50%;
+  margin: auto;
+}
+
+h6 {
+  font-size: 90px;
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+}
