@@ -35,3 +35,7 @@ textarea, input, div, button { outline: none; }
 .active-display {
   text-align: center;
 }
+
+.statement-form {
+  text-align: center;
+}
