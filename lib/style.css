@@ -15,6 +15,8 @@ html, body {
 body {
   margin: 0;
   padding: 0;
+  background-color: #5FB15F;
+  color: white;
 }
 
 body, input {
@@ -23,8 +25,13 @@ body, input {
 
 textarea, input, div, button { outline: none; }
 
-.title {
-  font-size: 4em;
+.main-title {
+  float:left;
+  padding-left: 5px;
+  margin-bottom: 20px;
+}
+
+.pomo-title {
   text-align: center;
 }
 
@@ -50,6 +57,45 @@ h6 {
 }
 
 h1 {
-  font-size: 3em;
-  text-align: center;
+  font-size: 3.5em !important;
+  margin-top: 0px !important;
+}
+
+.custom-button{
+  background-color: transparent;
+  border-width: small;
+  border-style: solid;
+  border-color: white;
+  width: 100px;
+  height: 40px
+}
+
+.custom-button:hover{
+  background-color: #358F35;
+}
+
+.pomo-custom-button{
+  background-color: transparent;
+  border-width: small;
+  border-style: solid;
+  border-color: white;
+  width: 200px;
+  height: 80px
+}
+
+.pomo-custom-button:hover{
+  background-color: #358F35;
+}
+
+.crystal-logo{
+  width: 50px;
+  height: 45px;
+  color: white;
+  margin-top: 5px;
+  float:left;
+  margin-left: 7px;
+}
+
+.title-row{
+  margin-left: 10px;
 }
