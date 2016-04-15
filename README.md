@@ -22,14 +22,16 @@ ___
  - Break interval is the amount of time you'd like to take a break
  - Click "Start Timer"
 
-##### Opting Out
-- During work mode you can click "stop" to see the main screen
-- During break time, **you must enter the response verbatum** to exit a break.**
- - These are purposefully complicated and long, and you will not have access to the internet
-
 ##### Running in the Background
 - This app is able to run in the background.
- - click the tray icon to show or hide the application
+ - click the "Kr" icon on the top right to show or hide the application
+
+##### Opting Out
+- During work mode you can click "stop" to see the main screen
+- During break time, **you must enter the response verbatum to exit a break.**
+ - These are purposefully complicated and long, and you will not have access to the internet
+ - Here's an example, but you probably won't have the luxury of having this quote on your clip board. Oh, and the quote changes every break.
+![](http://recordit.co/mGQEqzHeya/gif/notify)
 ___
 
 ### To get started, install the dependencies.
