@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/turingschool-examples/electron-react-starter-kid#readme",
   "devDependencies": {
+    "babel": "^6.5.2",
     "babel-eslint": "^6.0.2",
     "electron-packager": "^6.0.2",
     "electron-prebuilt-compile": "^0.37.5",
