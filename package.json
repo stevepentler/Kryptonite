@@ -31,5 +31,13 @@
     "react": "^15.0.1",
     "react-bootstrap": "^0.28.5",
     "react-dom": "^15.0.1"
+  },
+  "dependencies": {
+    "babel": "^6.5.2",
+    "electron-packager": "^6.0.2",
+    "electron-prebuilt-compile": "^0.37.7",
+    "react": "^15.0.1",
+    "react-bootstrap": "^0.28.5",
+    "react-dom": "^15.0.1"
   }
 }
