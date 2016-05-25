@@ -5,10 +5,10 @@
 ![](http://recordit.co/ATMpjvsVwU/gif/notify)
 
 ### Pitch
-Pomodoros have been a hot trend in programming recently, a concept that encourages taking 5 minute breaks for every 25-30 minutes worked. This concept is solid - maxmize the productivity, while building in breaks for fresh outlooks on those hard to solve problems. Unfortunately, most people are easily capable of working through the buzzer on most pomodor apps.
+A pomodoro work schedule encourages taking 5 minute breaks for every 25-30 minutes worked. This concept is solid - maximize productivity, while building in breaks for fresh outlooks on those hard to solve problems. Unfortunately, most people are easily capable of working through the buzzer on most pomodoro apps.
 
 ### Solution
-Upon triggering a pomodoro, a window emerges and the user is not able to access their controls for the duration of the pomodoro. 
+Upon triggering a pomodoro, a window emerges and the user is not able to access their controls (click, ⌘ + Tab, or swipe panes) for the duration of the pomodoro. 
 
 ## Skills Utilized:
 React, Electron, JavaScript
