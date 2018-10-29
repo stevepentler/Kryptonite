@@ -1,5 +1,5 @@
 # Kryptonite
-#####A forceful pomodoro application to ensure you're taking breaks.
+#####  A forceful pomodoro application.
 [GitHub Repo](https://github.com/stevepentler/Kryptonite)
 
 ![](http://recordit.co/ATMpjvsVwU/gif/notify)
